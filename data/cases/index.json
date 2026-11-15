@@ -1,0 +1,14 @@
+[
+  {
+    "path": "data/cases/boundary-1.json",
+    "meaning": "所有工时精确且完整，没有封顶或漏报；历史有限总体总量可核对。"
+  },
+  {
+    "path": "data/cases/boundary-2.json",
+    "meaning": "完整零工时记录，不能等同于失访或未知工时。"
+  },
+  {
+    "path": "data/cases/boundary-3.json",
+    "meaning": "所有工时都封顶且没有已知上限，有限的尾部上界不能无条件得出。"
+  }
+]
